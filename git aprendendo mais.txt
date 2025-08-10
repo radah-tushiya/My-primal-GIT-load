@@ -1,3 +1,4 @@
 git aprendendo mais
 
 adicionando nova branch "teste1" read
+adição de nova branch com base na MASTER. read go...
